@@ -1,0 +1,48 @@
+
+.header {
+    background-color: #ff6b6b;
+    padding: 20px;
+}
+
+.main {
+    margin-top: 5px;
+    background-color: #4ecdc4;
+    padding: 20px;
+}
+
+.section {
+    margin-top: 5px;
+    background-color: #ffe66d;
+    padding: 20px;
+}
+
+.article {
+    margin-top: 5px;
+    background-color: #a29bfe;
+    padding: 20px;
+}
+
+.footer {
+    background-color: #b8278c;
+    text-align: center;
+    padding: 15px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+nav {
+    margin-top: 5px;
+    background-color: #55efc4;
+    padding: 15px;
+}
+
+.aside {
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 80px;
+    height: 100%;
+    background-color: #fab1a0;
+    padding: 15px;
+}
